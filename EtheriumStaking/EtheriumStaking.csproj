@@ -5,4 +5,41 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net5.0\EtheriumStaking.AssemblyInfo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net5.0\EtheriumStaking.deps.json" />
+    <Content Include="bin\Debug\net5.0\EtheriumStaking.runtimeconfig.dev.json" />
+    <Content Include="bin\Debug\net5.0\EtheriumStaking.runtimeconfig.json" />
+    <Content Include="obj\Debug\net5.0\EtheriumStaking.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\EtheriumStaking.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net5.0\etheriumStackSchedule_bonusTask1.csv" />
+    <None Include="bin\Debug\net5.0\etheriumStackSchedule_bonusTask2.csv" />
+    <None Include="bin\Debug\net5.0\etheriumStackSchedule_mainTask.csv" />
+    <None Include="bin\Debug\net5.0\EtheriumStaking.dll" />
+    <None Include="bin\Debug\net5.0\EtheriumStaking.exe" />
+    <None Include="bin\Debug\net5.0\EtheriumStaking.pdb" />
+    <None Include="bin\Debug\net5.0\ref\EtheriumStaking.dll" />
+    <None Include="obj\Debug\net5.0\apphost.exe" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.assets.cache" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.csprojAssemblyReference.cache" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.dll" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net5.0\EtheriumStaking.pdb" />
+    <None Include="obj\Debug\net5.0\ref\EtheriumStaking.dll" />
+    <None Include="obj\EtheriumStaking.csproj.nuget.g.props" />
+    <None Include="obj\EtheriumStaking.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
 </Project>
